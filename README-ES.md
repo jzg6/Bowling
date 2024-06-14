@@ -26,7 +26,7 @@ Joystick derecho: rotacion de cámara auxiliar (por si no tienes espacio para da
 
 Botones Grip: agarrar objetos.
 
-Triggers: Mantén los botones durante 3 segundos mientras tienes los mandos juntos para ejecutar una interaccion especial.
+Triggers: Mantén los botones durante 3 segundos mientras tienes los mandos juntos para ejecutar una interaccion especial  secreta.
 
 Botón Y: disparar bolas de bolos.
 
