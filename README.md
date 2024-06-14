@@ -27,7 +27,7 @@ Right Joystick: auxiliar camera rotation (in case you dont have enough space to 
 
 Grip buttons: grab objects.
 
-Triggers: Hold both for 3 seconds to perform a special interaction.
+Triggers: put the controllers near each other and hold both triggers for 3 seconds to perform a secret special interaction.
 
 Y button: shoot bowling balls.
 
@@ -36,5 +36,5 @@ The experience begins in a small room with a display of the controls and the bow
 
 Once an evil bowling pin touches you the match ends, you can go back to the bowling alley with a little button on the ball generator and exit the game with te new giant button that apears.
 
-# Autor
+# Author
 Jorge Zaragoza Garrigós
