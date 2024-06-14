@@ -1,40 +1,39 @@
 # Bowling
 
-A  unique VR Bowling experience Developed with Unreal Engine 5.3.2 for the Virtual Reality subject of the Multimedia Engineering degree of University of Alicante.
+Una experiencia de bolera única desarrollada en Unreal Engine 5.3.2 para la asignatura de Realidad Virtual de la carrerad Ingenieria Multimedia de la Universidad de Alicante.
 
 # Assets
+El proyecto se hizo usando como base la VRTemplate.
 
-The project was made parting from Unreal VRTemplate
-
-### External assets used
+### Assets Externos usados
 Broadcast studio: https://www.unrealengine.com/marketplace/en-US/product/bafae2f71777417c8864a4cca9f47f2d
 
 Bowling pin model: https://opengameart.org/content/bowling-pin
 
-# Download
-You can clone the repository and add the project folder to Unreal Engine
+# Descarga
+Puedes clonar el repositorio y añadir la carpeta a los proyectos de Unreal Engine.
 
-To open the project is recommended to have a Unreal Engine version Equal or higher to 5.3.2
+Para abrir el proyecto es recomendable tener una versión de Unreal Engine igual o superior a la 5.3.2.
 
-## Links
+## Enlaces
 Gameplay:
 Package:
 
-# Controls
-Left Joystick: move around.
+# Controles
+Joystick izquierdo: moverse.
 
-Right Joystick: auxiliar camera rotation (in case you dont have enough space to turn around).
+Joystick derecho: rotacion de cámara auxiliar (por si no tienes espacio para darte la vuelta cómodamente).
 
-Grip buttons: grab objects.
+Botones Grip: agarrar objetos.
 
-Triggers: Hold both for 3 seconds to perform a special interaction.
+Triggers: Mantén los botones durante 3 segundos mientras tienes los mandos juntos para ejecutar una interaccion especial.
 
-Y button: shoot bowling balls.
+Botón Y: disparar bolas de bolos.
 
-## Walkthrough
-The experience begins in a small room with a display of the controls and the bowling alley, thera are 3 buttons in the room, one for resetting the position of the bowling pins, other for spawning balls and a last one that takes to to the challenging part of the experience, a battle arena where you will have to fight evil bowls  without letting them reach you.
+## Guía
+La experiencia comienza en una pequeña habitación donde se muestran los controles, hay 3 botones en la sala, uno para reiniciar la posicion de los bolos, otro para generar bolas  y un último botón que te transporta a la parte desafiante de la experiencia, una arena de combate donde te tienes que enfrentar a bolos malvados sin dejar que te alcancen.
 
-Once an evil bowling pin touches you the match ends, you can go back to the bowling alley with a little button on the ball generator and exit the game with te new giant button that apears.
+Una vez un bolo malvado te toca acaba la partida, puedes volver a la bolera pulsando un pequeño boton en un costado del generador de bolas o puedes salir del juego con el botón nuevo que aparece.
 
 # Autor
 Jorge Zaragoza Garrigós
