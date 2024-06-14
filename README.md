@@ -17,7 +17,7 @@ You can clone the repository and add the project folder to Unreal Engine
 To open the project is recommended to have a Unreal Engine version Equal or higher to 5.3.2
 
 ## Links
-Gameplay: https://drive.google.com/file/d/1bTH56RAa0SKwxLWR1h6SH5QwMHj5sRaa/view?usp=sharing
+Gameplay: https://drive.google.com/file/d/1mrMDbDMxbFaUU4rt5wL9j4bJ7LIhPoZf/view?usp=sharing
 
 Package: https://drive.google.com/file/d/1ZHkYzvObp1-4rURYF4kXxPyURi1MVm3q/view?usp=sharing
 
